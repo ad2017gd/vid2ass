@@ -1,5 +1,5 @@
 # vid2ass
-converts video to .ass subtitles
+converts video to colored .ass subtitles
 
 # requirements
 jp2a
