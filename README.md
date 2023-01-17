@@ -3,7 +3,7 @@
 # vid2ass
 Convert videos to colored .ass subtitles
 
-![image](https://user-images.githubusercontent.com/39013925/140237697-5f56b692-4bd1-46de-a58d-76df7d338f66.png)
+[![image](https://user-images.githubusercontent.com/39013925/140237697-5f56b692-4bd1-46de-a58d-76df7d338f66.png)](https://www.youtube.com/watch?v=kMX65vN0Lxg)
 
 https://www.youtube.com/watch?v=kMX65vN0Lxg
 </div>
